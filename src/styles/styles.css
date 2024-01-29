@@ -1,0 +1,12 @@
+/* src/components/ManageHours.css */
+.custom-card {
+    background-color: #f8f9fa; /* Set your desired background color */
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
